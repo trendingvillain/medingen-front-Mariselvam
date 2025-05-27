@@ -1,0 +1,41 @@
+.ratings-and-reviews {
+  padding: 20px;
+}
+
+.ratings-and-reviews h2 {
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+
+.review-item {
+  margin-bottom: 16px;
+}
+
+.rating-stars {
+  display: inline-flex;
+  gap: 2px;
+  margin-right: 8px;
+}
+
+.star {
+  font-size: 16px;
+  color: #ccc;
+}
+
+.star.active {
+  color: gold;
+}
+
+.rating-number {
+  background-color: #e0e0e0;
+  color: #333;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.review-text {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-top: 8px;
+}

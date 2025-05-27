@@ -1,0 +1,44 @@
+.faqs-section {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+  cursor: pointer;
+  border-bottom: 1px solid #c7c4c4;
+}
+
+.header h2 {
+  font-size: 18px;
+  margin: 0;
+  
+}
+
+.faqs {
+    background-color: #555;
+}
+
+.toggle-button {
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: #555;
+  cursor: pointer;
+}
+
+.faqs-content {
+  padding: 16px;
+}
+
+.faq-item {
+  margin-bottom: 16px;
+}
+
+.faq-item p {
+  line-height: 1.6;
+}
